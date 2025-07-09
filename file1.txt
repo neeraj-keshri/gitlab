@@ -1,1 +1,2 @@
 I am styding about devops.
+GIT is the first lecture I am studying about.
