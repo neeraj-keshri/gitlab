@@ -1,2 +1,3 @@
 I am styding about devops.
 GIT is the first lecture I am studying about.
+I have created the GITHUB account and started my lab.
